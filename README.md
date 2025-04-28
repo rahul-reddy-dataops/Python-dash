@@ -59,3 +59,10 @@ python app.py
 
 Then open your browser at:
 http://127.0.0.1:8050
+
+🔗 Useful Links
+Official Dash Documentation
+
+Plotly Graphing Libraries
+
+Python Official Website
